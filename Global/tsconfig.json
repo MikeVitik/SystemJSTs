@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "outFile": "distr/global.js",
+        "declaration": true
+    },
+    "exclude": [
+        "distr"
+    ]
+}

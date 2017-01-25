@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "classic",
+        "declaration": true,
+        "baseUrl": "jspm_packages",
+        "paths": {
+            "jquery": ["npm/@types/jquery@2.0.39/index.d.ts"],
+            "*": ["*"]
+        }
+    },
+    "exclude": [
+        "distr"
+    ]
+}

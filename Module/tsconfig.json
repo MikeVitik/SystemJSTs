@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "outFile": "distr/module.js",
+        "declaration": true
+    },
+    "exclude": [
+        "distr"
+    ],
+    "extends": "../tsconfig.base.json"
+}
